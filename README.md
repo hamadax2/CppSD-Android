@@ -17,19 +17,19 @@ Download the latest signed APK from the [Releases](https://github.com/hamadax2/C
 
 The editor provides syntax highlighting, line numbers, code completion, and function signatures while writing C or C++ code.
 
-![C++ SD editor with autocomplete](screenshots/editor-autocomplete.jpg)
+![C++ SD editor with autocomplete](Screenshot_20261008_204213.jpg)
 
 ### Compiler diagnostics and project browser
 
 Compiler and language-server diagnostics are displayed directly over the source code, while the project browser provides quick access to files and folders.
 
-![C++ SD compiler diagnostics and project browser](screenshots/compiler-diagnostics.jpg)
+![C++ SD compiler diagnostics and project browser](Screenshot_20261008_204238.jpg)
 
 ### Editor and compiler settings
 
 The Settings screen provides controls for dark mode, font size, word wrap, whitespace display, indentation, hidden files, and compiler options.
 
-![C++ SD settings screen](screenshots/settings.jpg)
+![C++ SD settings screen](Screenshot_20261008_204253.jpg)
 
 ## Verify the checksum
 
