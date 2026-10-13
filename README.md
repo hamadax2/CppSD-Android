@@ -4,15 +4,17 @@ Official public download page for **C++ SD**, an Android C/C++17 editor and comp
 
 ## Download
 
-Download **C++ SD 1.4.3** from the [latest release](https://github.com/hamadax2/CppSD-Android/releases/tag/v1.4.3). This release is ARM64-only:
+Download **C++ SD 1.4.4** from the [latest release](https://github.com/hamadax2/CppSD-Android/releases/tag/v1.4.4). This release is ARM64-only and lightweight:
 
 - **arm64-v8a** — modern 64-bit ARM phones; smallest native ARM64 toolchain build
 - Unity Ads: interstitial after every second run and rewarded ad after import or explicit save
+- Test mode is enabled to match the verified Unity Ads integration
+- The compiler archive is downloaded on demand instead of embedded in the APK
 - Signed release builds
 - SHA-256 checksums included in `SHA256SUMS.txt`
 - Fixed light mode with a consistent editor and gutter surface
 - Synchronized gutter scrolling without horizontal overlay translation
-- Supports C/C++ editing, Find/Replace, Format Code, code folding, autocomplete fallback, interactive terminal shell, and offline Clang tools
+- Supports C/C++ editing, Find/Replace, Format Code, optional code folding (off by default), autocomplete fallback, interactive terminal shell, and Clang tools
 - The old armeabi-v7a package is not included
 
 ## Screenshots
